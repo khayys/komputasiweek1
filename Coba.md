@@ -9,7 +9,7 @@
 <h2 align="center">Tetapi, aku masih bingung dalam beberapa hal berikut: </h2> <br>
 
 <h2 align="center">Profile README Github</h2>
-<img src= <h2 align="center">https://github.com/khayys/nyoba-nyobaa/blob/main/Profile%20Github.png</h2>
+<img src= https://github.com/khayys/nyoba-nyobaa/blob/main/Profile%20Github.png>
 
 <br>
 
