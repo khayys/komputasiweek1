@@ -39,5 +39,5 @@ Berfungsi untuk mengirimkan perubahan dari cabang lokal ke remote repository <br
 9. Git Status<br>
 Berfungsi untuk menampilkan status working directory dan perubahan yang sudah di stage. <br>
 
-10. 
+10. Git Reset <br>
 
