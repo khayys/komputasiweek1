@@ -21,7 +21,7 @@ Membuat salinan dari repositori yang sudah adda <br>
 3. Git add <br>
 Berfungsi untuk menambahkan perubahan pada index sebelum dilakukan commit<br>
 <img src= > <br>
-4. Git Commit <br>
+4. Git Commit <br>s
 Berfungsi untuk menyimpan perubahan yang ada di staging arena ke dalam repository <br>
 <img src= > <br>
 5. Git Log <br>
