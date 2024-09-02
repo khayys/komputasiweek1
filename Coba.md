@@ -7,12 +7,12 @@
 4. Menggunakan beberapa commands seperti git add, git push, git commit, git clone, yang digunakan untuk mengirim file dari repository lokal ke repository yang berada di github <br>
 
 <h2 align="center">Tetapi, aku masih bingung dalam beberapa hal berikut: </h2> <br>
+1. Aku masih bingung kalo bikin repository lokal dan menghubungkan dengan repository github, ada beberapa kesalahan penggunaan commands <br>
 
 <h2 align="center">Profile README Github</h2>
 <img src= https://github.com/khayys/Tugas-1/blob/main/Github%20profile.png> <br>
 
 <h2 align="center">Git Commands</h2> <br>
-<img src=  > <br>
 1. Git Clone <br>
 Membuat salinan dari repositori yang sudah adda <br>
 <img src= https://github.com/khayys/Tugas-1/blob/main/git%20clone.png> <br>
@@ -32,8 +32,16 @@ Berfungsi untuk mengirimkan perubahan dari cabang lokal ke remote repository <br
 Berfungsi untuk menampilkan status working directory dan perubahan yang sudah di stage. <br>
 <img src= https://github.com/khayys/Tugas-1/blob/main/git%20status.png> <br>
 7. Git Fetch <br>
+Berfungsi untuk mengunduh semua commit baru, perubahan, dan referensi (seperti branches dan tags) dari remote repository, dimana perubahan ini disimpan di dalam repository lokal
 <img src= https://github.com/khayys/Tugas-1/blob/main/git%20fetch.png> 
 <img src= https://github.com/khayys/Tugas-1/blob/main/file%20di%20fetch.png>
 <br>
+8. Git Pull <br>
+Berfungsi sebagai perintah di Git yang digunakan untuk mengambil (fetch) perubahan terbaru dari remote repository dan langsung menggabungkannya (merge) ke dalam branch lokal <br>
+<img src= https://github.com/khayys/Tugas-1/blob/main/git%20pull.png>
+<br>
+
+
+
 
 
