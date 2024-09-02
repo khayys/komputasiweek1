@@ -17,7 +17,7 @@ Berfungsi untuk membuat repository Git baru di direktori yang sudah ada <br>
 <img src=  > <br>
 2. Git Clone <br>
 Membuat salinan dari repositori yang sudah adda <br>
-<img src= > <br>
+<img src= https://github.com/khayys/Tugas-1/blob/main/Sebelum%20git%20clone.png> <br>
 3. Git add <br>
 Berfungsi untuk menambahkan perubahan pada index sebelum dilakukan commit<br>
 <img src= > <br>
